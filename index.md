@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: My Photo Album!
+tagline: zjiab photo album
 ---
 {% include JB/setup %}
 
